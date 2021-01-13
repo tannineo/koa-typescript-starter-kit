@@ -1,0 +1,8 @@
+# node dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# dist dir
+dist/
